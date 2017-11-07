@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        MainFrame mFrm=new MainFrame();
+        OXGameFrame mFrm=new OXGameFrame();
         mFrm.setVisible(true);
     }
 }
